@@ -1,0 +1,26 @@
+body{
+    margin-left:150px;
+    margin-top: 150px;
+}
+.body{
+    height: 23em;
+    width: 20em;
+    background-color: #f9e9e9;
+    display: inline-table;
+}
+.display{
+    height: 3em;
+    width: 20em;
+    background-color: aqua;
+}
+.number{
+    height: 18em;
+    width: 15em;
+    background-color: blue;
+}
+.calculate{
+    height: 5em;
+    width: 3em;
+    background-color: gold;
+
+}
